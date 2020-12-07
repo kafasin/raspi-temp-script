@@ -1,2 +1,2 @@
 # raspi-temp-script
-Primitive CPU Temperature Measure Script
+Raspberry Pi - Primitive CPU Temperature Measure Script
